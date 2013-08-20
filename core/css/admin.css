@@ -1,0 +1,55 @@
+.newsletter-table {
+	border-spacing: 0;
+	}
+
+.newsletter-table th, .newsletter-table td {
+	text-align: left;
+	border: 1px solid #585858;
+	margin:0;
+	padding:10px 10px !important;
+	font-size: 12px;
+	}
+	
+.newsletter-table th {
+	font-weight: bold;
+	color:#fff !important;
+	background: #797878;
+	margin:0;
+	}
+
+.newsletter-table td {
+	vertical-align: top;
+	}
+
+
+.newsletter-table sortable{
+	width:100%;
+	padding:0;
+	margin:0;
+	}
+
+.osnt-date {
+	width: 15%;
+	padding:0% 1.5%;
+	}
+
+.osnt-issue {
+	width: 7%;
+	padding:0% 1.5%;
+	}
+
+.osnt-contents {
+	width: 57%;
+	padding:0% 1.5%;
+	}
+
+.osnt-download {
+	width: 25%;
+	padding:0% 1.5%;
+	}
+	
+.osnt-download a img {
+	width:100%;
+	height:auto;
+	display: block;
+	} 
