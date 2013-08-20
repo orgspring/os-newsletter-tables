@@ -13,10 +13,11 @@ This is a beta version plugin. Make sure to test it thoroughly on a development 
 OrgSpring is not responsible for the damage to or loss of any data to your site through the usage of this plugin.
 
 
-Changelog
+Change Log
+====================
 
 8-20-2013: Version 0.1.0<br/>
 Changed category listing to custom post type.
-<br/>
+<br/><br/>
 8-19-2013: Version 0.1.0<br/>
 First commit.
