@@ -13,6 +13,14 @@ This is a beta version plugin. Make sure to test it thoroughly on a development 
 OrgSpring is not responsible for the damage to or loss of any data to your site through the usage of this plugin.
 
 
+Support
+====================
+
+Support for the plugin is offerd at support.orgspring.org.<br/>
+For more information about the plugin please visit <a href="http://orgspring.com/newsletter-tables-plugin">http://orgspring.com/newsletter-tables-plugin</a>
+
+
+
 Change Log
 ====================
 
