@@ -1,4 +1,4 @@
-os-newsletter-tables
+OS Newsletter Tables
 ====================
 
 This plugin will create a custom post type for your newsletters, and a shortcode that creates 
