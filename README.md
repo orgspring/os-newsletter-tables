@@ -15,8 +15,8 @@ OrgSpring is not responsible for the damage to or loss of any data to your site 
 
 Changelog
 
-8-20-2013: Version 0.1.0
+8-20-2013: Version 0.1.0<br/>
 Changed category listing to custom post type.
-
-8-19-2013: Version 0.1.0
+<br/>
+8-19-2013: Version 0.1.0<br/>
 First commit.
